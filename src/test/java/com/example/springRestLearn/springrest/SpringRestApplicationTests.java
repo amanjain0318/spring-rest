@@ -5,7 +5,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class SpringRestApplicationTests {
-// git add
+// git added
 	@Test
 	void contextLoads() {
 	}
